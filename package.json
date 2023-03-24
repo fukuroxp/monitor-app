@@ -1,0 +1,30 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "bootstrap": "^5.2.3",
+        "bootstrap-vue": "^2.23.1",
+        "easy-js-camera": "^2.1.0",
+        "easy-vue-camera": "^1.0.5",
+        "jquery": "^3.6.3",
+        "sass": "^1.58.3",
+        "select2": "^4.1.0-rc.0",
+        "select2-bootstrap-5-theme": "^1.3.0",
+        "simple-vue-camera": "^1.1.3",
+        "vue": "^3.2.47",
+        "vue-loader": "^17.0.1",
+        "vue-picture-swipe": "^2.1.0",
+        "vue-router": "^4.1.6",
+        "vue3-sequential-entrance": "^2.0.2"
+    }
+}
